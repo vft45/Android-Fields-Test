@@ -1,4 +1,4 @@
-# fields
+# Visual Field Test Android
 Author: Peter Galloway
 
 Credits to / collaborators: 
