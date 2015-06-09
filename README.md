@@ -1,4 +1,4 @@
-# Visual Field Test Android
+# Visual Field Test Android Smartphone
 Author: Peter Galloway
 
 Credits to / collaborators: 
