@@ -1,9 +1,9 @@
 # Visual Field Test for Android Smartphone
-Author: Peter Galloway
+Author: PHG
 
 Credits to / collaborators:
-David Burton: poster design
-Aidan Benson: optics calculations
+DB: poster design
+AB: optics calculations
 
 Summary: This project uses smartphone technology to test visual fields with a virtual reality style headset.
 
